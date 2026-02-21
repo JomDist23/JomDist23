@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jomar Paulo Distor</h1>
-<h3 align="center">A Student from CVSU- Naic
-i am currently a second year college a BSIT studen, stuck at learning java, css and html</h3>
+<h3 align="center">A Student from CVSU- Naic,
+i am currently a second year college a BSIT student, stuck at learning java, css and html</h3>
 
 <h3 align="left">Connect with me jomardist23@gmail.com </h3>
 <p align="left">
