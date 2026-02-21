@@ -5,7 +5,8 @@
 # 💫 About Me:
 I’m Currently a BSIT student <br>
 I'm Looking to Collaborate in someone who’s I'm Currently learning css and html <br
-Ask me about Anything<br>I Fun fact: I love nature 🍃 <br>
+Ask me about Anything <br>
+Fun fact: I love nature 🍃 <br>
 
 
 ## 🌐 Socials:
