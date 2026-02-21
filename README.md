@@ -2,7 +2,7 @@
 <h3 align="center">A Student from CVSU- Naic
 i am currently a second year college a BSIT studen, stuck at learning java, css and html</h3>
 
-<h3 align="left">Connect with me "jomardist23@gmail.com"</h3>
+<h3 align="left">Connect with me //"jomardist23@gmail.com"</h3>
 <p align="left">
 <a href="https://fb.com/jomar paulo distor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomar paulo distor" height="30" width="40" /></a>
 <a href="https://instagram.com/jmrdstr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmrdstr_" height="30" width="40" /></a>
