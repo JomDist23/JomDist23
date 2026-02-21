@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jomar Paulo Distor</h1>
-<h3 align="center">A Student from CVSU- Naic,
-i am currently a second year college a BSIT student, stuck at learning java and html</h3>
+<h3 align="center">A Student from CVSU- Naic,</h3>
 
 <h3 align="left"> </h3>
 # 💫 About Me:
-I’m Currently a BSIT student <br>with someone who’s interested in coding<br>css and html<br>how to use those languages<br>Anything<br>I love nature 🍃 <br>
+I’m Currently a BSIT student <br>
+I'm Looking to Collaborate in someone who’s I'm Currently learning css and html <br
+Ask me about Anything<br>I Fun fact: I love nature 🍃 <br>
 
 
 ## 🌐 Socials:
